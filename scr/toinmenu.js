@@ -9,4 +9,4 @@ const toinmenu = (prefix, pushname) => {
 
 }
 
-exports.toinmenu = toinomenu
+exports.toinmenu = toinmenu
