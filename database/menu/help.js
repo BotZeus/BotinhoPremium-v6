@@ -44,9 +44,6 @@ const help = (prefix, ownerBot, botName) => {
   ├─ ❏ ${prefix}timer
   ├─ ❏ ${prefix}fml
   └─ ❏ ${prefix}fml2`
-
-BotinhoPremium-V6
-
 }
 exports.help = help
 
